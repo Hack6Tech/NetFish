@@ -6,4 +6,3 @@ cd SocialPhish<br/>
 chmod +x socialphish.sh<br/>
 ./socialphish.sh<br/>
 
-# Special Thanks to socialphish
